@@ -11,3 +11,6 @@
 ## Link on PDF at IPFS
 - [In English](https://cyb.ai/ipfs/QmYTgj7uGNMcSYbLY8ue2WXD1htDydJDwJqeAjrksTAxbF)
 - [На Русском](https://cyb.ai/ipfs/QmcrhVZFonCbk4dHVQ6AVsdr9F9QkbyYMVApoeQAwVEJ5Q)
+
+## Video from Validator Commons meet where I speak about problems and solutions for the Decentralized Governance
+- https://youtu.be/ec9PR2s3QVQ?t=7538
